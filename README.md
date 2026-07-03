@@ -240,6 +240,6 @@ The agent **never** sends, invites, awards, accepts, approves, or writes to any 
 
 <div align="center">
 
-*Built for the Suproc final-round assignment.*
+*Built for the Suproc.*
 
 </div>
